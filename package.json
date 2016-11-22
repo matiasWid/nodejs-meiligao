@@ -12,14 +12,14 @@
     "url": "https://github.com/alvassin/nodejs-meiligao/issues"
   },
   "keywords": [
-    "Meiligao", 
-    "Meitrack", 
-    "tracker", 
-    "gps", 
-    "GT30i", 
-    "GT60", 
+    "Meiligao",
+    "Meitrack",
+    "tracker",
+    "gps",
+    "GT30i",
+    "GT60",
     "VT300",
-    "VT310", 
+    "VT310",
     "VT400"
   ],
   "dependencies": {
