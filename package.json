@@ -23,7 +23,7 @@
     "VT400"
   ],
   "dependencies": {
-    "crc": "*",
+    "crc": "^3.4.3",
     "extend": "*"
   },
   "analyze": true,
